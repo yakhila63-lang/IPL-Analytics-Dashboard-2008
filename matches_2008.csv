@@ -1,0 +1,59 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,winner,result,result_margin,venue
+1,2008,Bangalore,2008-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140,M Chinnaswamy Stadium
+2,2008,Chandigarh,2008-04-19,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,33,Punjab Cricket Association Stadium
+3,2008,Delhi,2008-04-19,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,wickets,9,Feroz Shah Kotla
+4,2008,Mumbai,2008-04-20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,5,Wankhede Stadium
+5,2008,Kolkata,2008-04-20,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,Kolkata Knight Riders,wickets,5,Eden Gardens
+6,2008,Jaipur,2008-04-21,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Rajasthan Royals,wickets,6,Sawai Mansingh Stadium
+7,2008,Hyderabad,2008-04-22,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,runs,9,Rajiv Gandhi International Stadium
+8,2008,Chennai,2008-04-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6,MA Chidambaram Stadium
+9,2008,Hyderabad,2008-04-24,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,Rajiv Gandhi International Stadium
+10,2008,Chandigarh,2008-04-25,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,66,Punjab Cricket Association Stadium
+11,2008,Bangalore,2008-04-26,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,M Chinnaswamy Stadium
+12,2008,Chennai,2008-04-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,9,MA Chidambaram Stadium
+13,2008,Mumbai,2008-04-27,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,10,Wankhede Stadium
+14,2008,Chandigarh,2008-04-27,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,wickets,4,Punjab Cricket Association Stadium
+15,2008,Bangalore,2008-04-28,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,13,M Chinnaswamy Stadium
+16,2008,Kolkata,2008-04-29,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7,Eden Gardens
+17,2008,Delhi,2008-04-30,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,runs,10,Feroz Shah Kotla
+18,2008,Hyderabad,2008-05-01,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,Rajiv Gandhi International Stadium
+19,2008,Jaipur,2008-05-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45,Sawai Mansingh Stadium
+20,2008,Chennai,2008-05-02,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,8,MA Chidambaram Stadium
+21,2008,Hyderabad,2008-05-25,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,5,Rajiv Gandhi International Stadium
+22,2008,Chandigarh,2008-05-03,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,runs,9,Punjab Cricket Association Stadium
+23,2008,Mumbai,2008-05-04,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,29,Wankhede Stadium
+24,2008,Jaipur,2008-05-04,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,8,Sawai Mansingh Stadium
+25,2008,Bangalore,2008-05-05,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,M Chinnaswamy Stadium
+26,2008,Chennai,2008-05-06,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7,MA Chidambaram Stadium
+27,2008,Mumbai,2008-05-07,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,7,Wankhede Stadium
+28,2008,Delhi,2008-05-08,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,Feroz Shah Kotla
+29,2008,Kolkata,2008-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5,Eden Gardens
+30,2008,Jaipur,2008-05-09,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,8,Sawai Mansingh Stadium
+31,2008,Bangalore,2008-05-10,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5,M Chinnaswamy Stadium
+32,2008,Chennai,2008-05-10,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,18,MA Chidambaram Stadium
+33,2008,Hyderabad,2008-05-11,Deccan Chargers,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7,Rajiv Gandhi International Stadium
+34,2008,Jaipur,2008-05-11,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Rajasthan Royals,runs,3,Sawai Mansingh Stadium
+35,2008,Kolkata,2008-05-13,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23,Eden Gardens
+36,2008,Mumbai,2008-05-14,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,9,Wankhede Stadium
+37,2008,Chandigarh,2008-05-14,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,runs,9,Punjab Cricket Association Stadium
+38,2008,Jaipur,2008-05-15,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,Sawai Mansingh Stadium
+39,2008,Delhi,2008-05-15,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,runs,16,Feroz Shah Kotla
+40,2008,Jaipur,2008-05-16,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,65,Sawai Mansingh Stadium
+41,2008,Hyderabad,2008-05-17,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9,Rajiv Gandhi International Stadium
+42,2008,Chandigarh,2008-05-17,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,Punjab Cricket Association Stadium
+43,2008,Bangalore,2008-05-18,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9,M Chinnaswamy Stadium
+44,2008,Kolkata,2008-05-18,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,runs,3,Eden Gardens
+45,2008,Delhi,2008-05-19,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,runs,29,Feroz Shah Kotla
+46,2008,Mumbai,2008-05-21,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,1,Wankhede Stadium
+47,2008,Delhi,2008-05-22,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,Feroz Shah Kotla
+48,2008,Kolkata,2008-05-23,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24,Eden Gardens
+49,2008,Mumbai,2008-05-24,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,9,Wankhede Stadium
+50,2008,Bangalore,2008-05-25,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,runs,3,M Chinnaswamy Stadium
+51,2008,Chennai,2008-05-25,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,6,MA Chidambaram Stadium
+52,2008,Chandigarh,2008-05-26,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,Kings XI Punjab,runs,6,Punjab Cricket Association Stadium
+53,2008,Mumbai,2008-05-28,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,5,Wankhede Stadium
+54,2008,Delhi,2008-05-29,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,runs,12,Feroz Shah Kotla
+55,2008,Mumbai,2008-05-30,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,105,Wankhede Stadium
+56,2008,Mumbai,2008-05-31,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,9,Wankhede Stadium
+57,2008,Mumbai,2008-06-01,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,3,DY Patil Stadium
+58,2008,Mumbai,2008-06-01,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,3,DY Patil Stadium
