@@ -5,7 +5,7 @@ import plotly.express as px
 st.set_page_config(layout="wide")
 st.title("🏏 IPL Analytics Dashboard - 2008 Season")
 
-df = pd.read_csv("data/matches_2008.csv")
+df = pd.read_csv("matches_2008.csv")
 
 team = st.sidebar.selectbox("Team", ["All"] + sorted(set(df.team1) | set(df.team2)))
 d = df if team == "All" else df[(df.team1 == team) | (df.team2 == team)]
